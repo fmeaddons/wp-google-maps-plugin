@@ -1,6 +1,6 @@
-#WP Google Maps (WP Store Locator)#
+#WP Google Maps (WP Store Locator)
 
-#WP Google Maps# plugin allows you to add a customized map on your website that guides the users to your different store locations. With the help of #WordPress map plugin#; you can add markers to every store location that visually appeal the end users about your business network. The users can easily click a marker nearest to their home and click to know the contact details and get a direction.
+WP Google Maps plugin allows you to add a customized map on your website that guides the users to your different store locations. With the help of WordPress map plugin; you can add markers to every store location that visually appeal the end users about your business network. The users can easily click a marker nearest to their home and click to know the contact details and get a direction.
 
 #Prerequisites
 
